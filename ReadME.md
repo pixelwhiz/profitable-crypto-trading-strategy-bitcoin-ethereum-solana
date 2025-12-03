@@ -244,6 +244,6 @@ I'm open to collaborations! If you're a trader, fund, or developer seeking:
 - **Enterprise Solutions:** Large-scale institutional trading systems
 
 ### 📞 **Get In Touch:**
-- **Telegram:** @pixelwhiz
+- **Telegram:** @pixelwhiz01
 
 **Ready to start your profitable crypto trading journey?** Contact me today for a free consultation and custom quote!
