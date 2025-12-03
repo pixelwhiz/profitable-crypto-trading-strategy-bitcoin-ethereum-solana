@@ -2,8 +2,8 @@
 
 ![Crypto Trading Banner](./chart.png) <!-- Placeholder for a banner image; replace with actual image URL -->
 
-[![GitHub stars](https://img.shields.io/github/stars/frostyalce000/profitable-crypto-trading-strategy-bitcoin-ethereum-solana?style=social)](https://github.com/frostyalce000/profitable-crypto-trading-strategy-bitcoin-ethereum-solana/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/frostyalce000/profitable-crypto-trading-strategy-bitcoin-ethereum-solana?style=social)](https://github.com/frostyalce000/profitable-crypto-trading-strategy-bitcoin-ethereum-solana/network)
+[![GitHub stars](https://img.shields.io/github/stars/pixelwhiz/profitable-crypto-trading-strategy-bitcoin-ethereum-solana?style=social)](https://github.com/pixelwhiz/profitable-crypto-trading-strategy-bitcoin-ethereum-solana/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pixelwhiz/profitable-crypto-trading-strategy-bitcoin-ethereum-solana?style=social)](https://github.com/pixelwhiz/profitable-crypto-trading-strategy-bitcoin-ethereum-solana/network)
 [![Python Version](https://img.shields.io/badge/python-3.11.6%2B-blue.svg)](https://www.python.org/downloads/)
 
 ## Table of Contents
@@ -244,7 +244,6 @@ I'm open to collaborations! If you're a trader, fund, or developer seeking:
 - **Enterprise Solutions:** Large-scale institutional trading systems
 
 ### 📞 **Get In Touch:**
-- **Email:** frosty.alce000@gmail.com
-- **Telegram:** @frostyalce000
+- **Telegram:** @pixelwhiz
 
 **Ready to start your profitable crypto trading journey?** Contact me today for a free consultation and custom quote!
